@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 53bda8591e7b6b1408a69674f8c33879
+guid: 3095518a5a85d854ea7c607e0520fa5a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7708920532220806285
-    second: Tilemap_0
-  - first:
-      213: 4564998844612868550
-    second: Tilemap_1
+      213: -8869705260539362474
+    second: Tree_Top_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -116,133 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Hive
+      name: Tree_Top_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 183
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 37b734b9e99640590800000000000000
-      internalID: -7708920532220806285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Grass
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 166
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6c9f73543422a5f30800000000000000
-      internalID: 4564998844612868550
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ground
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 149
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8bf42175c0661047bff7f23b8924a82
-      internalID: -1051307526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Underground
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 132
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7400c8ea24da5842b76d5ae18b8b953
-      internalID: 1643006083
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hive_Branch
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 115
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4aefd3979d71dc44aba699aadc616d86
-      internalID: 1554492090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hive_Trunk
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 115
-        width: 16
-        height: 16
+        x: 0
+        y: 0
+        width: 79
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6d33c0ff53a4277459b8eaa40d6df3a3
-      internalID: -1799085982
+      spriteID: 653432b2f0a78e480800000000000000
+      internalID: -8869705260539362474
       vertices: []
       indices: 
       edges: []
@@ -251,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 6c9301ecb09be0240b7d9afc43ee9eb9
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -261,12 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Grass: 4564998844612868550
-      Ground: -1051307526
-      Hive: -7708920532220806285
-      Hive_Branch: 1554492090
-      Hive_Trunk: -1799085982
-      Underground: 1643006083
+      Tree_Top_0: -8869705260539362474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
